@@ -2329,7 +2329,7 @@ pre code {
     }
     .col-sm-4 {
         width: 33.33333333%;
-        font-size: x-large;
+        font-size: 48*48px;
     }
     .col-sm-3 {
         width: 25%
